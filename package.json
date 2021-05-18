@@ -1,0 +1,22 @@
+{
+  "name": "19021051uhi",
+  "version": "1.0.0",
+  "description": "Assignment 1 for WAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19021051uhi/19021051uhi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19021051uhi/19021051uhi/issues"
+  },
+  "homepage": "https://github.com/19021051uhi/19021051uhi#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
